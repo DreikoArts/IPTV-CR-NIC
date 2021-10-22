@@ -1,202 +1,92 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_CR1.xml.gz"
-#EXTINF:-1 tvg-id="Locomotion" tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="AZTV" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
-https://bit.ly/3gwL1f9
-#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
-https://bit.ly/3mCnbCo
-#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
-https://bit.ly/3gEdAqS
-#EXTINF:-1   tvg-logo="https://media.tvalacarta.info/canales/256x256/disneyjunior.png", Disney JR
-https://bit.ly/3myiutq
-#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/disney-xd.jpg", Disney XD
-https://bit.ly/3zhnBlc
-#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-kids.jpg", Discovery Kids
-https://bit.ly/3ynKWjX
+#EXTINF:-1,**PANAMA
+**
+http:?
 
-#EXTINF:-1, Mega Box
-https://bit.ly/2V8ERdz
-#EXTINF:-1, Enlace NIC
-https://bit.ly/38zfKDU
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal23.png", Canal 23
-https://bit.ly/3mVLlIu
-#EXTINF:-1, JBN Canal 39
-https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
-#EXTINF:-1, TV ONE nic
-https://bit.ly/3gURYH1
-#EXTINF:-1, Radio TV Luz y Verdad
-https://bit.ly/2WNtWX2
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
-http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
-#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5w7H1-pWsMa7VyxwgCx-QZc)/dm/3/x29e3wg/s/live-3.m3u8
-#EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
-http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
-https://bit.ly/2V897VW
-#EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNjMyNTQ5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMzYiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMzYiXX0sInNpZ25hdHVyZSI6ImI1MTI2MWU1ODE4MWQ5ZDc1ZGVkOWNkYjYzMzE5MWM3ODdmNmY5ZTAifQ==
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNjMyNzY2LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMzYiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMzYiXX0sInNpZ25hdHVyZSI6ImRiOWJhNWI3NGFkNGNlZDhkOWVlOWQ5OGU1ZTEyY2M5ODZkOTc2ZDMifQ==
-#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
-https://bit.ly/3DDRGhs
-#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
-https://bit.ly/3A5ChEv
-#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
-https://bit.ly/3jx96ED
-#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
-https://bit.ly/3sM69mz
-#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
-https://bit.ly/2X6ryuR
-#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
-https://bit.ly/2WuDq9S
-#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.(ESPN2L)..cr", ESPN 2
-https://bit.ly/3ytFKv7
-#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.(Cono.Norte).(FSA)..cr", FOX SPORTS
-https://bit.ly/3Bdz8CJ
-#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2)..cr", FOX SPORTS 2
-https://bit.ly/3mAgHUQ
-#EXTINF:-1, WIN+ Sports
-https://bit.ly/3zk3nr4
-#EXTINF:-1, La Liga
-https://bit.ly/3nqRdcJ
-#EXTINF:-1, Dreiko TV
-https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
-#EXTINF:-1, Alajuelita TV
-https://cp.sradiotv.com:1936/8022/8022/chunklist_w363446717.m3u8
-#EXTINF:-1, Nosara TV
-http://rtmp02.portalexpress.es/nosaratv/nosaratv/playlist.m3u8
-#EXTINF:-1, Multizonas TV
-http://209.126.105.158:1935/mztv/envivo_720p/chunklist_w1965154696.m3u8
-#EXTINF:-1, San Jose TV
-https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
-#EXTINF:-1, Telefides
-http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
-#EXTINF:-1, SMO TV
-http://186.15.50.30:8080/hls/smotv.m3u8
-#EXTINF:-1 tvg-id="Anexión.TV.(ANEX)..cr", Anexion TV
-https://rtmp.info/anexiontv/envivo/chunklist_w759656506.m3u8
-#EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Za3cvHK3gZHsxbkfJKk99M8)/dm/3/x7vh8g3/d/live-3.m3u8
-#EXTINF:-1, 36 Limon
-https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1453814195.m3u8
-#EXTINF:-1, Colosal TV
-https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1023493580.m3u8
-#EXTINF:-1, TV UNO
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w685058481.m3u8
-#EXTINF:-1, Telesur
-http://k3.usastreams.com/telesur/telesur/chunklist_w929248362.m3u8
-#EXTINF:-1, EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
-#EXTINF:-1, Supreme Master TV
-https://cf-lbs.suprememastertv.com/origin/720p/playlist.m3u8
-#EXTINF:-1, Telered
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w969400546.m3u8
-#EXTINF:-1, San Vito TV
-http://stmv1.srvif.com/sanvito/sanvito/chunklist_w547020798.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png", TVsur
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1867933475.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV
-http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV (1080p)
-https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-01/tvretro-palmares-costa-rica.png?itok=Niiw9ZPB", TV Retro Palmares
-http://tvretropalmares.com:8090/hls/envivo.m3u8
-#EXTINF:-1, Tvsur canal 9
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1 tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT)..cr", VM Latino
-http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1, Antena 6
-http://inliveserver.com:1935/14510/14510/chunklist_w1469377991.m3u8
-#EXTINF:-1, Nicoya TV
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w1674958038.m3u8
-#EXTINF:-1, Mega Fuzion
-http://k4.usastreams.com/megafusion/megafusion/playlist.m3u8
-#EXTINF:-1, ExtremaTv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1, Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1, RadioTV Chirripo
-http://tertuliasconcafe.com:1935/tvdc/envivo_720p/playlist.m3u8
-#EXTINF:-1, TV Tica
-http://tiquiciatv.com:1935/tvtica/web/playlist.m3u8
-#EXTINF:-1, STV
-http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
-#EXTINF:-1, TV Curre
-http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
-#EXTINF:-1, Los santos tv
-http://tiquiciatv.com:1935/lstv/web/playlist.m3u8
-#EXTINF:-1, TVN Canal 14
-http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-#EXTINF:-1, IQ TV
-http://rtmp.info:8081/iqtv/envivo/playlist.m3u8
-#EXTINF:-1,A&E -4
-http://45.235.37.254:8600/play/a0c5
-#EXTINF:-1,ATRES SERIES
-http://45.235.37.254:8600/play/a0c9
-#EXTINF:-1,AXN -6
-http://45.235.37.254:8600/play/a096
-#EXTINF:-1,Animal Planet -5
-http://45.235.37.254:8600/play/a0ab
-#EXTINF:-1,Baby TV -7
-http://45.235.37.254:8600/play/a068
-#EXTINF:-1,Boomerang -8
-http://45.235.37.254:8600/play/a06c
+#EXTINF:-1,SER-TV
+rtmp://216.224.177.132/live/sertv
 
-#EXTINF:-1,Discovery Science
-http://45.235.37.254:8600/play/a09y
-#EXTINF:-1,Discovery Turbo -21
-http://45.235.37.254:8600/play/a0b3
+#EXTINF:-1,RPCTV
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 
-#EXTINF:-1,El Gourmet -26
-http://45.235.37.254:8600/play/a0b4
+#EXTINF:-1,Telemetro
+ http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 
-#EXTINF:-1,History -40
-http://45.235.37.254:8600/play/a08w
+#EXTINF:-1,TVN 2
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:0_6gox09ym_all.smil/32/chunklist.m3u8
 
-#EXTINF:-1,Nat Geo Wild -49
-http://45.235.37.254:8600/play/a0cm
-#EXTINF:-1,National Geographic-50
-http://45.235.37.254:8600/play/a0ck
 
-#EXTINF:-1,TV PERU
-http://45.235.37.254:8600/play/a07z
-#EXTINF:-1,TV+ -68
-http://45.235.37.254:8600/play/a062
-#EXTINF:-1,TVN -69
-http://45.235.37.254:8600/play/a07a
-#EXTINF:-1,Telecanal
-http://45.235.37.254:8600/play/a0ch
-#EXTINF:-1,Telemundo -60
-http://45.235.37.254:8600/play/a085
-#EXTINF:-1,Telenovelas -61
-http://45.235.37.254:8600/play/a08r
-#EXTINF:-1,Teletrak -67
-http://45.235.37.254:8600/play/a06b
-#EXTINF:-1,Tooncast
-http://45.235.37.254:8600/play/a0ce
-#EXTINF:-1,Tooncast
-http://45.235.37.254:8600/play/a0bs
-#EXTINF:-1,Tooncast -65
-http://45.235.37.254:8600/play/a069
-#EXTINF:-1,Tru TV -66
-http://45.235.37.254:8600/play/a0c6
-#EXTINF:-1,TyC Sports -70
-http://45.235.37.254:8600/play/a08m
-#EXTINF:-1,Universal -71
-http://45.235.37.254:8600/play/a097
-#EXTINF:-1,Via X -72
-http://45.235.37.254:8600/play/a07f
-#EXTINF:-1,Vive
-http://45.235.37.254:8600/play/a09g
-#EXTINF:-1,Warner Channel -73
-http://45.235.37.254:8600/play/a08c
-#EXTINF:-1,Win Sports
-http://45.235.37.254:8600/play/a0ak
-#EXTINF:-1,Zona Latina -74
-http://45.235.37.254:8600/play/a07e
+#EXTINF:-1,**ESPANA**
+http:?
 
+#EXTINF:-1,TVE1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,TVE2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,A•3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1, Castilla-LaMancha
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1,MEGA
+http://212.121.224.243:9981/stream/channelid/1769302701?ticket=AC81844BB567E97A5877494DF652DEB73D8E1A46&profile=pass
+
+#EXTINF:-1,TVE24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+
+#EXTINF:-1,Canal Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+ 
+#EXTINF:-1 tvg-logo="CANAL EXTREMADURA.png",Canal Extremadura
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="ANDALUCIA.png",Canal Andalucia
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:-1, Telecinco
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8
+
+#EXTINF:-1,TDP
+http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+
+
+EXTINF:-1,**MEXICO**
+ http:?
+
+#EXTINF:-1,Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+
+#EXTINF:-1,**COSTA RICA**
+http:?
+
+#EXTINF:-1, 11 Repretel
+http://slrp.sambavideos.sambatech.com/liveevent/repretelcanal11_d3adab9cf37b5e4ed6f823e031229710/livestream3/chunklist.m3u8
+
+#EXTINF:-1, 6 Repretel
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+
+
+#EXTINF:-1, ExtraTv 42
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+
+#EXTINF:-1,
+Sinart13
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+
+#EXTINF:-1, Teletica 7
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+
+#EXTINF:-1, XPERTS TV 33
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
