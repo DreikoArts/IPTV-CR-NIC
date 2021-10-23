@@ -17,7 +17,7 @@ http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
 #EXTINF:-1 tvg-id="Sinart 13" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png" group-title="",Sinart 13(480p) [Not 24/7]
 http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
 
-#EXTINF:-1, Dreiko TV
+#EXTINF:-1 tvg-id="Dreiko Tv" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" group-title="",Dreiko Tv (480p) [Not 24/7]
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
