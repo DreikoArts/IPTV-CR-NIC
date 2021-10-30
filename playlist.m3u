@@ -1,8 +1,10 @@
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="",Teletica 7 (480p) [Not 24/7]
-https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53bb-Dzw_fWFez1qO-6URb4)/dm/3/x29e3wg/s/live-2.m3u8
-http:?
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54XrtlT-_21zu3ZWp32Ynxs)/dm/3/x29e3wg/s/live-2.m3u8
+
 #EXTINF:-1 tvg-id="Repretel canal 11" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/repretel-11-1573.png" group-title="",Repretel canal 11(480p) [Not 24/7]
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1MDIwMTk1LCJzZXNzaW9uIjoiMTg2LjE4OC4xODAuNzAiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE4OC4xODAuNzAiXX0sInNpZ25hdHVyZSI6ImYxNjM1MDZiMjVlMzQyMDA4YzI1ZDIwYTJlZTgxMjkzNDdlY2U5YzgifQ%3D%3D
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NjM5NTI1LCJzZXNzaW9uIjoiMTg2LjE4OC4xODAuNzAiLCJ3aGl0ZWxpc3QiOlsiMTg2LjE4OC4xODAuNzAiXX0sInNpZ25hdHVyZSI6ImYyYmY5YWUzMjJmZmZiN2MxYjM3ZDI4Y2U1YzkyYTdmNzhlNTc2N2QifQ%3D%3D
+
+
 
 #EXTINF:-1 tvg-id="Repretel canal 6" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/600px-Repretel_6_logo.png" group-title="",Repretel canal 6(480p) [Not 24/7]
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
@@ -12,7 +14,7 @@ http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sinart 13" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png" group-title="",Sinart 13(480p) [Not 24/7]
-http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXxw_MH3eAcDHzytNUi0iEk)/dm/3/x7vh8g3/d/live-2.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko Tv" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" group-title="",Dreiko Tv (480p) [Not 24/7]
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
