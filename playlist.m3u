@@ -100,7 +100,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="",TeleSUR Costa Rica (720p) [Not 24/7]
 http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="",Teletica 7 (480p) [Not 24/7]
-http://201.220.141.118:8000/play/a02r/index.m3u8
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_Teb-aTaelJDgEwQsmFxSw)/dm/3/x29e3wg/s/live-2.m3u8
 #EXTINF:-1 tvg-id="Toonizaki.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toonizaki/picture?width=300&height=300" group-title="Animation",Toonizaki (720p) [Not 24/7]
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-pLqFOvp-6R_dr9whF_Q5IBLtvtRcMjOY2xmROz5zFlIu7Y88Q&s" group-title="",TV Sur Canal 9 (480p) [Not 24/7]
