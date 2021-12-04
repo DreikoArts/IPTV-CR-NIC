@@ -1,7 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="",Teletica 7 (480p) [Not 24/7]
-http://201.220.141.118:8000/play/a02r/index.m3u8
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+
+#EXTINF:-1, 11 Repretel
+http://slrp.sambavideos.sambatech.com/liveevent/repretelcanal11_d3adab9cf37b5e4ed6f823e031229710/livestream3/chunklist.m3u8
+
+#EXTINF:-1, 6 Repretel
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Humor247.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/https://www.facebook.com/humor247cr/picture?width=320&height=320" group-title="Entertainment",Humor 24-7 (360p)
@@ -10,8 +16,6 @@ https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
 https://inliveserver.com:1936/15506/15506/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY" group-title="",Antena Seis TV (720p) [Geo-blocked]
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Sinart.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://costaricamedios.cr/wp-content/uploads/2018/11/logo-header-sinartcr.png" group-title="",Canal 13 Sinart (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
