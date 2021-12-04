@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-id="Humor247.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/https://www.facebook.com/humor247cr/picture?width=320&height=320" group-title="Entertainment",Humor 24-7 (360p)
-https://srv.panelcast.net/humor247/humor247/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="",Teletica 7 (480p) [Not 24/7]
+http://201.220.141.118:8000/play/a02r/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Humor247.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/https://www.facebook.com/humor247cr/picture?width=320&height=320" group-title="Entertainment",Humor 24-7 (360p)
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
@@ -68,12 +71,6 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1,Caracol
-http://199.180.114.174:84/ccaracol.m3u8
-
-#EXTINF:-1,RCN
-http://199.180.114.174:84/crcn.m3u8
-
 
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="General",Canal Capital (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
@@ -137,26 +134,6 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/eduvision-2592.jpg" group-title="Education",Eduvision (720p)
 http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
-http://tvultimate.ddns.net/LIVE/H01/CANAL303/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="discovery channel.png",DISCOVERY HD Teather
-http://tvultimate.ddns.net/LIVE/H01/CANAL351/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="history hd.png",History
-http://tvultimate.ddns.net/LIVE/H01/CANAL353/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="natgeo wild hd.png",NatGeo Wild HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL355/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
-http://tvultimate.ddns.net/LIVE/H01/CANAL371/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="animal planet.png",Animal Planet
-http://tvultimate.ddns.net/LIVE/H01/CANAL373/PROFILE03.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="natgeo.png",NatGeo
-http://tvultimate.ddns.net/LIVE/H01/CANAL377/PROFILE03.m3u8?tvultimate=%2F.ts
 
 
 
